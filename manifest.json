@@ -22,6 +22,21 @@
       ],
       "ast": [
         "aggregate/ast/7b5df17888997d57c2c1c8f91da1db5691f49953/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/7b5df17888997d57c2c1c8f91da1db5691f49953.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "libc",
+          "ecosystem": "CARGO",
+          "version": "0.2.191",
+          "githubOrg": "rust-lang",
+          "githubRepo": "libc",
+          "githubCommit": "ccc2ff4aaab962f7fde7b8edda7379c045b1ca12",
+          "githubTag": "0.2.191",
+          "githubUrl": "https://github.com/rust-lang/libc",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.191/src/unix/mod.rs"
+        }
       ]
     }
   ],
