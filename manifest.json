@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "softprops",
+  "repo": "atty",
+  "versions": [
+    {
+      "commit": "7b5df17888997d57c2c1c8f91da1db5691f49953",
+      "parsed_at": "2026-11-22T11:19:33.955616+00:00",
+      "tag": "0.2.14",
+      "filetree": "filetree/7b5df17888997d57c2c1c8f91da1db5691f49953.nq.gz",
+      "blobs": [
+        "blob/a628724c98f70517e960bc9aa849a7a8916c0675.nq.gz",
+        "blob/3b3635e59cbd1d11fe3e6e415e883e2cdc7a7581.nq.gz",
+        "blob/aa2cbb77e1ee7ed6e93d241da3e1bf442dacffd3.nq.gz",
+        "blob/afc9901273ce4b9b2e28f157ab49879a5be61f9a.nq.gz",
+        "blob/899a094cd597781dd1fa2de7ac9a84af30df2da1.nq.gz",
+        "blob/501cad69484a700012b21d5963524e16cf9932e2.nq.gz",
+        "blob/d7fb127948abdaeff5c993f94dca312e08cf3858.nq.gz",
+        "blob/4e9673f0de20b5819c41bb7d12a029a57ab62b30.nq.gz",
+        "blob/b9da76b73525c7e771eeebdb5514abcb00326564.nq.gz",
+        "blob/cd85593d6e0cd22435a079e02ea5ca94e64bf203.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
