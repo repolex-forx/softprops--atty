@@ -1,0 +1,11 @@
+{
+  "org": "softprops",
+  "repo": "atty",
+  "versions": [
+    {
+      "commit": "7b5df17888997d57c2c1c8f91da1db5691f49953",
+      "tag": "0.2.14",
+      "parsed_at": "2026-11-22T11:25:08.283301+00:00"
+    }
+  ]
+}
